@@ -1,0 +1,26 @@
+.t{
+    width: 100%;
+    text-align: center;
+    background-color: hotpink;
+}
+.t td:hover{
+    background-color: blueviolet;
+}
+h1{
+    text-align: center;
+    font-family: IBM Plex Sans Thai;
+}
+.tlick{
+    text-align: center;
+    font-family: Sriracha;
+    font-size: 200%;
+}
+.tlick thml{
+    font-family: Indie Flower;
+}
+.tlick css{
+    font-family: Indie Flower;
+}
+.pix{
+    text-align: center;
+}

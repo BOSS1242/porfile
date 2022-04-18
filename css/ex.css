@@ -1,0 +1,23 @@
+h1{
+    font-family: IBM Plex Sans Thai;
+    text-align: center;
+}
+.t{
+    width: 100%;
+    text-align: center;
+    background-color: hotpink;
+}
+.t td:hover{
+    background-color: blueviolet;
+}
+.color{
+    background-color: pink;
+}
+.num{
+    text-align: center;
+    background-color: pink;
+}
+.tick-1{
+    text-align: justify;
+    background-color: lightblue;
+}
